@@ -269,13 +269,12 @@ Banner Area
 
 .page-header {
   padding: 90px 0px;
-  background: #F4F5F8;
+  background: url("../images/banner/aboutbanner.jpg") no-repeat;
   position: relative;
 }
 
 .page-header .title-block {
   text-align: center;]
-  background: url("../images/banner/aboutbanner.jpg") no-repeat;
 }
 
 .page-header .title-block h1 {
