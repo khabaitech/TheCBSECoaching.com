@@ -274,7 +274,8 @@ Banner Area
 }
 
 .page-header .title-block {
-  text-align: center;
+  text-align: center;]
+  background: url("../images/banner/aboutbanner.jpg") no-repeat;
 }
 
 .page-header .title-block h1 {
